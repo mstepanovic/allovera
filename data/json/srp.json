@@ -3,6 +3,7 @@
     "glottocodes": ["serb1264"],
     "primary src": "Wiki:2020-serbian-phonology",
     "secondary srcs": [],
+    "g2p": "custom",
     "mappings": [
         {
             "phone": "p",
@@ -89,6 +90,12 @@
             "articulatory description": "voiceless retroflex sibilant fricative"
         },
         {
+            "phone": "h",
+            "phoneme": "x",
+            "environment": "word initially",
+            "articulatory description": "voiceless glottal fricative"
+        },
+        {
             "phone": "x",
             "phoneme": "x",
             "environment": "elsewhere",
@@ -132,7 +139,7 @@
         },
         {
             "phone": "ɲ",
-            "phoneme": "n",
+            "phoneme": "ɲ",
             "environment": "elsewhere",
             "articulatory description": "voiced palatal nasal"
         },
