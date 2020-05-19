@@ -1,0 +1,200 @@
+{
+    "iso": "srp",
+    "glottocodes": ["serb1264"],
+    "primary src": "Wiki:2020-serbian-phonology",
+    "secondary srcs": [],
+    "mappings": [
+        {
+            "phone": "p",
+            "phoneme": "p",
+            "environment": "elsewhere",
+            "articulatory description": "voiceless bilabial stop"
+        },
+        {
+            "phone": "t",
+            "phoneme": "t",
+            "environment": "elsewhere",
+            "articulatory description": "voiceless dental stop"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k",
+            "environment": "elsewhere",
+            "articulatory description": "voiceless velar stop"
+        },
+        {
+            "phone": "b",
+            "phoneme": "b",
+            "environment": "elsewhere",
+            "articulatory description": "voiced bilabial stop"
+        },
+        {
+            "phone": "d",
+            "phoneme": "d",
+            "environment": "elsewhere",
+            "articulatory description": "voiced dental stop"
+        },
+        {
+            "phone": "g",
+            "phoneme": "ɡ",
+            "environment": "elsewhere",
+            "articulatory description": "voiced velar stop"
+        },
+        {
+            "phone": "t͡s",
+            "phoneme": "t͡s",
+            "environment": "elsewhere",
+            "articulatory description": "voiceless dental affricate"
+        },
+        {
+            "phone": "t͡ʂ",
+            "phoneme": "t͡ʂ",
+            "environment": "elsewhere",
+            "articulatory description": "voiceless retroflex sibilant affricate"
+        },
+        {
+            "phone": "t͡ɕ",
+            "phoneme": "t͡ɕ",
+            "environment": "elsewhere",
+            "articulatory description": "voiceless alveolo-palatal sibilant affricate"
+        },
+        {
+            "phone": "d͡ʐ",
+            "phoneme": "d͡ʐ",
+            "environment": "elsewhere",
+            "articulatory description": "voiced retroflex sibilant affricate"
+        },
+        {
+            "phone": "d͡ʑ",
+            "phoneme": "d͡ʑ",
+            "environment": "elsewhere",
+            "articulatory description": "voiced alveolo-palatal sibilant affricate"
+        },
+        {
+            "phone": "f",
+            "phoneme": "f",
+            "environment": "elsewhere",
+            "articulatory description": "voiceless labio-dental fricative"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s",
+            "environment": "elsewhere",
+            "articulatory description": "voiceless dental sibilant fricative"
+        },
+        {
+            "phone": "ʂ",
+            "phoneme": "ʂ",
+            "environment": "elsewhere",
+            "articulatory description": "voiceless retroflex sibilant fricative"
+        },
+        {
+            "phone": "x",
+            "phoneme": "x",
+            "environment": "elsewhere",
+            "articulatory description": "voiceless velar fricative"
+        },
+        {
+            "phone": "v",
+            "phoneme": "v",
+            "environment": "elsewhere",
+            "articulatory description": "voiced labio-dental fricative"
+        },
+        {
+            "phone": "z",
+            "phoneme": "z",
+            "environment": "elsewhere",
+            "articulatory description": "voiced dental sibilant fricative"
+        },
+        {
+            "phone": "ʐ",
+            "phoneme": "ʐ",
+            "environment": "elsewhere",
+            "articulatory description": "voiced retroflex sibilant fricative"
+        },
+        {
+            "phone": "m",
+            "phoneme": "m",
+            "environment": "elsewhere",
+            "articulatory description": "voiced bilabial nasal"
+        },
+        {
+            "phone": "n",
+            "phoneme": "n",
+            "environment": "elsewhere",
+            "articulatory description": "voiced alveolar nasal"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "n",
+            "environment": "before velar stops [k, g]",
+            "articulatory description": "voiced velar nasal"
+        },
+        {
+            "phone": "ɲ",
+            "phoneme": "n",
+            "environment": "elsewhere",
+            "articulatory description": "voiced palatal nasal"
+        },
+        {
+            "phone": "ɾ",
+            "phoneme": "r",
+            "environment": "intervocalically",
+            "articulatory description": "voiced alveolar flap"
+        },
+        {
+            "phone": "r",
+            "phoneme": "r",
+            "environment": "elsewhere",
+            "articulatory description": "voiced alveolar trill"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j",
+            "environment": "elsewhere",
+            "articulatory description": "voiced palatal approximant"
+        },
+        {
+            "phone": "l",
+            "phoneme": "l",
+            "environment": "elsewhere",
+            "articulatory description": "voiced alveolar lateral approximant"
+        },
+        {
+            "phone": "ʎ",
+            "phoneme": "ʎ",
+            "environment": "elsewhere",
+            "articulatory description": "voiced palatal lateral approximant"
+        },
+        {
+            "phone": "i",
+            "phoneme": "i",
+            "environment": "elsewhere",
+            "articulatory description": "close front unrounded vowel"
+        },
+        {
+            "phone": "e",
+            "phoneme": "e",
+            "environment": "elsewhere",
+            "articulatory description": "mid front unrounded vowel"
+        },
+        {
+            "phone": "u",
+            "phoneme": "u",
+            "environment": "elsewhere",
+            "articulatory description": "close back rounded vowel"
+        },
+        {
+            "phone": "o",
+            "phoneme": "o",
+            "environment": "elsewhere",
+            "articulatory description": "mid back rounded vowel"
+        },
+        {
+            "phone": "a",
+            "phoneme": "a",
+            "environment": "elsewhere",
+            "articulatory description": "open central unrounded vowel"
+        }
+    ]
+}
